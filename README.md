@@ -2,4 +2,4 @@
 
 Building frameworks for computational physics, numerical simulation, and scientific machine learning.
 
-[LinkedIn](https://www.linkedin.com/in/harlivsingh/) • harliv.research@gmail.com
+[Website](https://h-livv.github.io/) • [LinkedIn](https://www.linkedin.com/in/harlivsingh/) • harliv.research@gmail.com
