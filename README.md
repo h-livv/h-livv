@@ -6,6 +6,6 @@
  • 
     <a href="https://linkedin.com/in/h-livv/">LinkedIn</a>
  • 
-    <a href="mailto:harliv.research@gmail.com">Email</a>
+    <a href="mailto:sh.harliv@gmail.com">Email</a>
 </p>
 </p>
